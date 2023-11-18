@@ -1,11 +1,13 @@
 # crawlingNodejs_
 
-### inflearn이랑 jobKorea를 내가 원하는 자료의 사항을 골라 크롤링 하는 작업
+### crawlingNodejs_
 
-### jobKorea에서 크롤링한 데이터를 내 메일로 보내는 작업
+##### carwling_inflearn.js
+###### inflearn에서 내가 원하는 자료 크롤링 <<
 
+##### crawling_jobKorea.js
+###### jobKorea에서 검색한 데이터를 크롤링한 다음 테이블로 작성한 후 내 메일로 보내기 <<
 
+*****
 
-
-
-Youtube 개발자의품격 nodejs 강의
+[Youtube](https://www.youtube.com/watch?v=yaeZ17QYxVs) 개발자의품격 강의 참조
